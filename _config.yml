@@ -1,0 +1,14 @@
+layout_spectrum: 0.4940263
+color:
+  saturation: 0.3219833
+  lightness: 0.2909199
+  brandStrength: 0
+  rhythmicContrast: 0.3064516
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.3986459
+name: NicolaKluge

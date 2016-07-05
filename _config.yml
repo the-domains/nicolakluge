@@ -4,16 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.3986459
 color:
-  saturation: 0.3219833
+  saturation: 0.360215
   brandStrength: 0
-  lightness: 0.2909199
+  lightness: 0.4880525
   brandColors:
     - '#D4E5F7'
     - '#6E90B3'
@@ -21,6 +22,5 @@ color:
     - '#B7A98F'
     - '#445533'
   rhythmicContrast: 0.3064516
-typography_spectrum: 0.3986459
 layout_spectrum: 0.4940263
 name: NicolaKluge

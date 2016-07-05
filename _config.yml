@@ -10,9 +10,8 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.3986459
 color:
-  saturation: 0.360215
+  saturation: 0.3160096
   brandStrength: 0
   lightness: 0.4880525
   brandColors:
@@ -22,5 +21,6 @@ color:
     - '#B7A98F'
     - '#445533'
   rhythmicContrast: 0.3064516
+typography_spectrum: 0.3986459
 layout_spectrum: 0.4940263
 name: NicolaKluge
